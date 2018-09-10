@@ -1,0 +1,25 @@
+body {
+    background-color: gray;
+}
+.thumbnail img {
+    width: 100%;
+
+}
+
+#campThumbnail {
+    max-height: 200px;
+}
+
+.thumbnail {
+    padding: 0;
+    
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.deleteButton {
+    display: inline;
+    margin-left: 5px;
+}
