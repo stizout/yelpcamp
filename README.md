@@ -12,6 +12,7 @@ This is a Yelp site for campgrounds. People log in and post a campsite and other
   
   <ul>
     <li>EJS</li>
+  <li>NodeJS</li>
     <li>Express</li>
     <li>MongoDB</li>
     <li>Postman</li>
